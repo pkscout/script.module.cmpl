@@ -1,0 +1,61 @@
+# XBMC Media Center language file
+# Addon Name: Extra Language Strings for pkscout's Confluence Mod
+# Addon id: script.module.cmpl
+# Addon Provider: pkscuot
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: XBMC Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30000"
+msgid "Show Random Movies instead"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Show Random TV Shows instead"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Show Random Albums instead"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Random"
+msgstr ""
+
+msgctxt "#30004"
+msgid "NextPVR Integration"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Use X-NEWA for"
+msgstr ""
+
+msgctxt "#30006"
+msgid "Show X-NEWA"
+msgstr ""
+
+msgctxt "#30007"
+msgid "NPVR Web Client"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Upcoming"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Recurring"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Dashboard"
+msgstr ""
