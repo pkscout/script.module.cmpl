@@ -67,3 +67,7 @@ msgstr ""
 msgctxt "#30012"
 msgid "Include season and episode numbers for TV Shows"
 msgstr ""
+
+msgctxt "#30013"
+msgid "Include disc number for music"
+msgstr ""
