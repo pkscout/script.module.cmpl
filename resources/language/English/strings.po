@@ -63,3 +63,7 @@ msgstr ""
 msgctxt "#30011"
 msgid "Show Background Artist Slideshow Visualization"
 msgstr ""
+
+msgctxt "#30012"
+msgid "Include season and episode numbers for TV Shows"
+msgstr ""
