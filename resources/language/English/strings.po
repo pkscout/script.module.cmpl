@@ -61,7 +61,7 @@ msgid "Dashboard"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Show Background Artist Slideshow Visualization"
+msgid "Show Artist Slideshow in fullscreen visualization"
 msgstr ""
 
 msgctxt "#30012"
