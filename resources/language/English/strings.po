@@ -71,3 +71,11 @@ msgstr ""
 msgctxt "#30013"
 msgid "Include disc number for music"
 msgstr ""
+
+msgctxt "#30014"
+msgid "Favorites Blade Image"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Hide Kodi"
+msgstr ""
