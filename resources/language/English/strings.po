@@ -79,3 +79,8 @@ msgstr ""
 msgctxt "#30015"
 msgid "Hide Kodi"
 msgstr ""
+
+msgctxt "#30016"
+msgid "Use shorter date format with clock"
+msgstr ""
+
